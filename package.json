@@ -9,13 +9,13 @@
     "grunt": "~0.4.1",
     "grunt-combine": "~0.8.3",
     "grunt-lineending": "~0.2.4",
-    "shelljs": "~0.7.8"
+    "shelljs": "~0.8.4"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
     "grunt-combine": "~0.8.3",
     "grunt-lineending": "~0.2.4",
-    "shelljs": "~0.7.8"
+    "shelljs": "~0.8.4"
   },
   "scripts": {
     "test": ""
